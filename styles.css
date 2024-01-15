@@ -1,0 +1,38 @@
+body {
+    padding: 50px;
+    background-color: #a6cef5;
+}
+
+.container {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+#result {
+    margin-top: 20px;
+}
+
+.btn-handleHigher,
+.btn-handleYes{
+    background-color: #58EEF0;
+    border-color: #58EEF0;
+}
+
+.btn-handleLower,
+.btn-handleNo{
+    background-color: #72F9CB;
+    border-color: #72F9CB;
+}
